@@ -49,7 +49,6 @@
 /config/database.yml
 /config/email.yml
 /config/secret_token.yml
-/config/environments
 /coverage
 /db/*.db
 /db/*.sqlite3
