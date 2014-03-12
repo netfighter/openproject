@@ -49,6 +49,7 @@
 /config/database.yml
 /config/email.yml
 /config/secret_token.yml
+/config/environments/*
 /coverage
 /db/*.db
 /db/*.sqlite3
@@ -67,7 +68,7 @@
 /vendor/rails
 /*.rbc
 /doc/app
-#/Gemfile.lock
+/Gemfile.lock
 /Gemfile.local
 /Gemfile.plugins
 /.rvmrc*
